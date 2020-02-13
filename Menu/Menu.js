@@ -21,4 +21,4 @@ menuButton.addEventListener('click', () => {
  menBtn2();
   
  })
-TweenMax.from(".menu-button", 6, {x:600,})
+TweenMax.from(".menu-button", 4, {x:600,})
